@@ -22,7 +22,7 @@ public class UniqueSum {
         return sum;
     }
 
-    // Main method to test the program
+    // Main method to run the program
     public static void main(String[] args) {
         // Test cases
         System.out.println("Input (1, 2, 3) -> " + uniqueSum(1, 2, 3)); // Output: 6
